@@ -1,7 +1,7 @@
-# Wide Activation for Efficient Image and Video Super-Resolution
-Reloaded PyTorch implementation of WDSR, *BMVC 2019* [[pdf]](https://bmvc2019.org/wp-content/uploads/papers/0288-paper.pdf).
+# Scale-wise Convolution for Image Restoration
+AAAI 2020 [[Arxiv]](https://arxiv.org/abs/1912.09028)
 
-[Previous Implementations](https://github.com/JiahuiYu/wdsr_ntire2018)
+This package is adapted from [WDSR @ 3aeff43](https://github.com/ychfan/wdsr/tree/3aeff4357a2b85730525cd62bf18ae2a93d5afe6).
 
 ## Performance
 | Networks | Parameters | DIV2K (val) | Set5 | B100 | Urban100 | Pre-trained models | Training command |
